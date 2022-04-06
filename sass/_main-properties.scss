@@ -29,6 +29,10 @@ a{
     text-decoration: none;
 }
 
+.section{
+    max-width: 1600px;
+}
+
 .wrapper {
     min-height: 100%;
     overflow: hidden;
@@ -42,3 +46,5 @@ a{
     margin: 0 auto;
     box-sizing: content-box;
 }
+
+$title-color:#252B42;
